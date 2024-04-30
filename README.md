@@ -26,7 +26,7 @@
 - ❓ Ask me about anything. I would like to have more friends  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retiishia&layout=compact)<br>
+
 
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
