@@ -20,13 +20,13 @@
 
 
 
-
 - 🌱 I’m currently learning, [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org/), , [Tailwind](https://tailwindcss.com/), [Next.JS](https://nextjs.org/)
   
 
 - ❓ Ask me about anything. I would like to have more friends  
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retiishia&layout=compact)<br>
 
 
 ### Things i use:  
