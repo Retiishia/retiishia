@@ -51,6 +51,7 @@
 
 ####  - Hosting Services and Web Tools:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### DevOps ♾️:
 
