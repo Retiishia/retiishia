@@ -1,5 +1,5 @@
 # <div align="center">Hey 👋, I'm Retiishia</div>  
-### <div align="center">A enthusiastic front end developer and composer</div>  
+### <div align="center">A Enthusiastic Front-End Developer</div>  
   
 
 <div align="center">
