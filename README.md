@@ -20,7 +20,7 @@
 
 
 
-- 🌱 I’m currently learning, [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org/), , [Tailwind](https://tailwindcss.com/), [Next.JS](https://nextjs.org/)
+- 🌱 I’m currently learning, [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org/), [Tailwind](https://tailwindcss.com/), [Next.JS](https://nextjs.org/)
   
 
 - ❓ Ask me about anything. I would like to have more friends  
